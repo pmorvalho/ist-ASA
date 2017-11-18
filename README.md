@@ -1,8 +1,9 @@
 # Análise e Síntese de Algoritmos
-IST
 
-LEIC-A
+[IST](https://tecnico.ulisboa.pt/pt/) 
 
-Análise e Síntese de Algoritmos - 2º ano 2015-2016
+[LEIC-A](https://fenix.tecnico.ulisboa.pt/cursos/leic-a/descricao)
+
+[Análise e Síntese de Algoritmos](https://fenix.tecnico.ulisboa.pt/disciplinas/ASA76451113/2015-2016/2-semestre) - 2º ano 2015-2016
 
 Nota: 19,75/20
